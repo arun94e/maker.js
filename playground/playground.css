@@ -615,7 +615,8 @@ body.side-by-side {
     top: 0;
     left: 0;
     bottom: 0;
-    right: 50%;
+    right: 0;
+    /*right: 50%;*/
     padding: 0 1em;
     overflow-y: scroll;
 }
